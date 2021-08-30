@@ -1,0 +1,6 @@
+*.pyc
+*.pdf
+*.ipynb_checkpoints
+data/
+paper_plot_data/
+important_data/

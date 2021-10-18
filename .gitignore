@@ -2,5 +2,5 @@
 *.pdf
 *.ipynb_checkpoints
 data/
-paper_plot_data/
+paper_plot_data/paper_plot_data.7z
 important_data/

@@ -1,0 +1,2 @@
+# paper_rl_thermal_machines
+To produce the plots of the manuscript "*Identifying optimal cycles in quantum thermal machines with reinforcement-learning*", download the .zip file from https://doi.org/10.6084/m9.figshare.16822054.v1 , and extract the content in this folder.

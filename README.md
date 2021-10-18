@@ -14,6 +14,8 @@ The following notebooks allow you to produce plots in the style of the figures o
 * [```paper_main_plots.ipynb```](jupyter/paper_main_plots.ipynb)
 * [```superconducting_qubit_refrigerator.ipynb```](jupyter/superconducting_qubit_refrigerator.ipynb)
 
+Te reproduce the exact plots of the manuscript, you have to download the raw data (see [```paper_plot_data/README.md```](paper_plot_data/README.md) for more information).
+
 ## Acknowledgement
 Implementation of the soft actor-critic method based on modifications of the code provided at:
 

@@ -108,7 +108,7 @@ def sac_paper_plot(log_dir, det_policy_sublocation,act_0,act_1,act_2,is_tri,acti
                     reward_legend_labels=None,action_legend_lines=None,action_legend_text=None,
                        action_legend_location=None):
     """
-    Makes a plot in the style of Fig. 3 and 4 of the manuscript. Top panel shows the running reward, the 3 central
+    Makes a plot in the style of Fig. 3 of the manuscript. Top panel shows the running reward, the 3 central
     plots show a zoom of the chosen actions at 3 points during training, and the last panel shows a zoom of the final 
     chosen actions chosen in a deterministic way
 

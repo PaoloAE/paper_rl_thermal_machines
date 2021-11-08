@@ -189,9 +189,9 @@ def sac_paper_plot(log_dir, det_policy_sublocation,act_0,act_1,act_2,is_tri,acti
                                 legend_text=action_legend_text, legend_location=action_legend_location)
 
     #add the (a) (b) (c) labels
-    reward_ax.text(-0.11,-0.38, r'(a)', transform=reward_ax.transAxes )
-    prot_0_ax.text(-0.4,-0.55, r'(b)', transform=prot_0_ax.transAxes )
-    prot_final_ax.text(-0.11,-0.38, r'(c)', transform=prot_final_ax.transAxes )
+    reward_ax.text(-0.11,-0.38, r'\textbf{(a)}', transform=reward_ax.transAxes )
+    prot_0_ax.text(-0.4,-0.55, r'\textbf{(b)}', transform=prot_0_ax.transAxes )
+    prot_final_ax.text(-0.11,-0.38, r'\textbf{(c)}', transform=prot_final_ax.transAxes )
 
     #save if necessary
     if plot_file_name is not None:
